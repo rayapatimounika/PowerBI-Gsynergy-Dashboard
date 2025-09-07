@@ -54,8 +54,7 @@ The dataset includes multiple fact and dimension tables:
 ---
 
 ## 📸 Dashboard Preview
-https://github.com/rayapatimounika/PowerBI-Gsynergy-Dashboard/blob/main/Screenshot%202025-09-07%20130218.png
-
+Screenshot 2025-09-07 130218.png
 https://github.com/rayapatimounika/PowerBI-Gsynergy-Dashboard/blob/main/Screenshot%202025-09-07%20130259.png
 
 ---
